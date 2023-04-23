@@ -19,6 +19,8 @@ https://www.adobe.com/in/creativecloud/file-types/image/raster/exif-file.html#:~
 
 How to run the progam?
 
+For System requirements please refer Application_Requirements.txt
+
 Just clone the repo, build and run.
 
 cargo build
