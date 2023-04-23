@@ -1,0 +1,54 @@
+**  Exif Data for Konica_Minolta.jpg  **
+_________________________________________________________________
+ImageDescription : "KONICA MINOLTA DIGITAL CAMERA"
+Make : "KONICA MINOLTA "
+Model : "DiMAGE Z3"
+Orientation : row 0 at top and column 0 at left
+XResolution : 72 pixels per inch
+YResolution : 72 pixels per inch
+ResolutionUnit : inch
+Software : "GIMP 2.4.5"
+DateTime : 2008-07-31 16:45:37
+YCbCrPositioning : centered
+ExposureTime : 1/40 s
+FNumber : f/2.8
+ExposureProgram : normal program
+PhotographicSensitivity : 200
+ExifVersion : 2.2
+DateTimeOriginal : 2005-03-10 15:10:48
+DateTimeDigitized : 2005-03-10 15:10:48
+ComponentsConfiguration : YCbCr_
+BrightnessValue : -0.5 EV
+ExposureBiasValue : 0 EV
+MaxApertureValue : 3 EV
+MeteringMode : pattern
+LightSource : unknown
+Flash : fired, return light detected, forced
+FocalLength : 5.859375 mm
+SubjectArea : rectangle (x=1136, y=852, w=280, h=280)
+FlashpixVersion : 1.0
+ColorSpace : sRGB
+PixelXDimension : 70 pixels
+PixelYDimension : 100 pixels
+InteroperabilityIndex : "R98"
+InteroperabilityVersion : 1.00
+CustomRendered : normal process
+ExposureMode : auto exposure
+WhiteBalance : auto white balance
+DigitalZoomRatio : unused
+FocalLengthIn35mmFilm : 35 mm
+SceneCaptureType : standard
+GainControl : high gain up
+Contrast : normal
+Saturation : normal
+Sharpness : normal
+SubjectDistanceRange : close view
+Compression : JPEG
+Orientation : row 0 at top and column 0 at left
+XResolution : 72 pixels per inch
+YResolution : 72 pixels per inch
+ResolutionUnit : inch
+JPEGInterchangeFormat : 34380
+JPEGInterchangeFormatLength : 1234
+YCbCrPositioning : centered
+ ** End ** 

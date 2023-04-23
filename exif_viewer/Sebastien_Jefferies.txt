@@ -1,0 +1,51 @@
+**  Exif Data for Sebastien_Jefferies.jpg  **
+_________________________________________________________________
+Make : "SONY"
+Model : "ILCE-7RM3"
+Orientation : row 0 at top and column 0 at left
+XResolution : 240 pixels per inch
+YResolution : 240 pixels per inch
+ResolutionUnit : inch
+Software : "Adobe Photoshop Lightroom Classic 10.2 (Windows)"
+DateTime : 2021-04-30 10:44:15
+ExposureTime : 1/2000 s
+FNumber : f/2.8
+ExposureProgram : manual
+PhotographicSensitivity : 400
+SensitivityType : REI
+RecommendedExposureIndex : 400
+ExifVersion : 2.31
+DateTimeOriginal : 2019-06-08 11:03:18
+DateTimeDigitized : 2019-06-08 11:03:18
+OffsetTime : "+01:00"
+OffsetTimeOriginal : "+00:00"
+OffsetTimeDigitized : "+00:00"
+ShutterSpeedValue : 10.965783992859269 EV
+ApertureValue : 2.9708539982335758 EV
+BrightnessValue : 7.71640625 EV
+ExposureBiasValue : 0 EV
+MaxApertureValue : 2.96875 EV
+MeteringMode : pattern
+LightSource : other
+Flash : not fired, no return light detection function, suppressed
+FocalLength : 35 mm
+ColorSpace : sRGB
+PixelXDimension : 800 pixels
+PixelYDimension : 1000 pixels
+FocalPlaneXResolution : 2164.4328018223237 pixels per cm
+FocalPlaneYResolution : 2164.4328018223237 pixels per cm
+FocalPlaneResolutionUnit : cm
+FileSource : digital still camera
+SceneType : directly photographed image
+CustomRendered : normal process
+ExposureMode : manual exposure
+WhiteBalance : manual white balance
+DigitalZoomRatio : 1
+FocalLengthIn35mmFilm : 35 mm
+SceneCaptureType : standard
+Contrast : normal
+Saturation : low saturation
+Sharpness : normal
+LensSpecification : 16-35 mm, f/2.8-2.8
+LensModel : "FE 16-35mm F2.8 GM"
+ ** End ** 
